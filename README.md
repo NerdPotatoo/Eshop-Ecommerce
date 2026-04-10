@@ -1,6 +1,6 @@
 # 🛒 E-Shop - Complete E-Commerce Platform
 
-> A fully functional e-commerce application built with PHP (Custom MVC), MySQL, and Tailwind CSS with comprehensive admin panel and customer features.
+> A fully functional e-commerce application built with PHP (Custom MVC), MySQL, and Tailwind CSS with comprehensive admin panel and customer features.  
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-blue)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange)](https://www.mysql.com/)
