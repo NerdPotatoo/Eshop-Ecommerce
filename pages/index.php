@@ -11,6 +11,7 @@ $productController = new ProductController();
 $featuredProducts = $productController->getFeaturedProducts(6);
 ?>
 
+
     <!-- Hero Section -->
     <section class="relative bg-gradient-to-br from-indigo-50 via-white to-purple-50 py-20 overflow-hidden">
         <!-- Background decorative elements -->
