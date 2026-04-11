@@ -90,7 +90,7 @@
             <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">Meet Our Team</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition duration-300 text-center">
-                    <img src="assets/images/zahid.jpg" class="w-full h-64 object-cover" alt="Yasir Adnan">
+                    <img src="assets/images/yasir.jpeg" class="w-full h-64 object-cover" alt="Yasir Adnan">
                     <div class="p-6">
                         <h5 class="text-xl font-bold text-gray-900 mb-1">Yasir Adnan</h5>
                         <p class="text-primary font-medium mb-3">Founder & CEO</p>
@@ -98,7 +98,7 @@
                     </div>
                 </div>
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition duration-300 text-center">
-                    <img src="assets/images/zahid.jpg" class="w-full h-64 object-cover" alt="Tithi Bala">
+                    <img src="assets/images/tithi.jpeg" class="w-full h-64 object-cover" alt="Tithi Bala">
                     <div class="p-6">
                         <h5 class="text-xl font-bold text-gray-900 mb-1">Tithi Bala</h5>
                         <p class="text-primary font-medium mb-3">COO & Designer</p>
@@ -106,9 +106,9 @@
                     </div>
                 </div>
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition duration-300 text-center">
-                    <img src="assets/images/zahid.jpg" class="w-full h-64 object-cover" alt="Khushnur Hossain Hashi">
+                    <img src="assets/images/hashi.jpeg" class="w-full h-64 object-cover" alt="Khushnur Hossain Hashi">
                     <div class="p-6">
-                        <h5 class="text-xl font-bold text-gray-900 mb-1">Zahidul Kabir Pathan</h5>
+                        <h5 class="text-xl font-bold text-gray-900 mb-1">Khushnur Hossain Hashi</h5>
                         <p class="text-primary font-medium mb-3">Managing Director</p>
                         <p class="text-gray-600 text-sm">Strategic leadership and business development.</p>
                     </div>
@@ -116,7 +116,7 @@
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition duration-300 text-center">
                     <img src="assets/images/zahid.jpg" class="w-full h-64 object-cover" alt="Zahidul Kabir Pathan">
                     <div class="p-6">
-                        <h5 class="text-xl font-bold text-gray-900 mb-1">Khushnur Hossain Hashi</h5>
+                        <h5 class="text-xl font-bold text-gray-900 mb-1">Zahidul Kabir Pathan</h5>
                         <p class="text-primary font-medium mb-3">Product Manager</p>
                         <p class="text-gray-600 text-sm">Ensures the best product selection and quality.</p>
                     </div>
